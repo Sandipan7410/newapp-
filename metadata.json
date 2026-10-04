@@ -1,0 +1,6 @@
+{
+  "name": "Meeting Decision Tracker",
+  "description": "Extract verified decisions, action items, and open questions from meeting notes, then review and sync approved tasks to Google Sheets and Google Calendar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
